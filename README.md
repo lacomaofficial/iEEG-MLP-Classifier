@@ -1,9 +1,11 @@
-# EEG Processing & Deep Learning Framework
+# iEEG Processing & Deep Learning Framework
 
-This repository brings together two powerful tools for working with EEG data:
+
+This repository brings together two tools for working with EEG data:
 
 1. **EEG Epoch Processing Framework**: Preprocess and segment raw EEG recordings into clean, event-locked epochs.
 2. **DeepEEG**: Apply deep learning techniques to classify epileptic events from intracranial EEG (iEEG) data.
+
 
 ---
 
