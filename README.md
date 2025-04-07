@@ -135,5 +135,4 @@ This project is released under the **MIT License**.
 
 ---
 
-![image.png](attachment:image.png)
 
